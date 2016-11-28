@@ -5,7 +5,7 @@
 **Source code** for [
 Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/).
 
-**Chinese Version** [https://www.kancloud.cn/kancloud/create-voting-app/63976]
+**Chinese Version** [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app/63976).
 
 
 ![](https://lh3.googleusercontent.com/bTN84YkcbO_gXZm4qOrOYVTwUgwkOsrFfv8nrUe7aew=w2080-h1470-no)
